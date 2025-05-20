@@ -34,6 +34,8 @@ Figma
 
 ## CODE:
 ```
+1.html
+
 <!DOCTYPE html>
 <html>
   <head>
@@ -53,6 +55,25 @@ Figma
   </body>
 </html>
 
+[css code]
+
+.iphonese-1
+{
+background-color:#babbdc;
+height:568px;
+width:320px;
+padding-left:45px;
+padding-right:45px;
+padding-top:147px;
+padding-bottom:147px;
+display:flex;
+flex-direction:column;
+gap:43px;
+position:absolute;
+}
+
+2.html
+
 <!DOCTYPE html>
 <html>
   <head>
@@ -71,6 +92,19 @@ Figma
     </div>
   </body>
 </html>
+
+[css code]
+
+.details
+{
+position:absolute;
+background-color:#2fa1ae;
+height:568px;
+width:320px;
+padding:0px;
+}
+
+3.html
 
 <!DOCTYPE html>
 <html>
@@ -93,6 +127,19 @@ Figma
   </body>
 </html>
 
+[css code]
+
+.registration
+{
+position:absolute;
+background-color:#a78a8a;
+height:568px;
+width:320px;
+padding:0px;
+}
+
+4.html
+
 <!DOCTYPE html>
 <html>
   <head>
@@ -109,6 +156,17 @@ Figma
     </div>
   </body>
 </html>
+
+[css code]
+
+.end
+{
+position:absolute;
+background-color:#c864b9;
+height:568px;
+width:320px;
+padding:0px;
+}
 
 ```
 
