@@ -33,9 +33,90 @@ Publish the website in the given URL.
 Figma
 
 ## CODE:
+```
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="globals.css" />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="iphone-SE">
+      <img class="logo" src="img/logo.png" />
+      <img class="text-on-a-path" src="img/text-on-a-path.svg" />
+      <div class="rectangle"></div>
+      <p class="text-wrapper">REGISTER SPORTS ON EVENT DAY</p>
+      <div class="div">LOGIN</div>
+    </div>
+  </body>
+</html>
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="globals.css" />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="iphone-SE">
+      <div class="sports-of-event-day-wrapper">
+        <p class="sports-of-event-day">
+          Sports of Event Day <br /><br />Cricket<br />Badminton<br />Tennis<br />Football<br />Basket ball
+        </p>
+      </div>
+    </div>
+  </body>
+</html>
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="globals.css" />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="iphone-SE">
+      <div class="overlap-group-wrapper">
+        <div class="overlap-group">
+          <p class="registration-form">
+            Registration form<br /><br />Name :<br />Department :<br />Event name :<br />Email ID:<br />Phn.no. :
+          </p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="globals.css" />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="iphone-SE">
+      <div class="thank-you-wrapper">
+        <div class="thank-you"><br />&nbsp;&nbsp;&nbsp;&nbsp;Thank You</div>
+      </div>
+    </div>
+  </body>
+</html>
+
+```
 
 ## OUTPUT:
-
-
+![alt text](<Screenshot 2025-05-20 221053.png>)
+![alt text](<Screenshot 2025-05-20 214216.png>)
+![alt text](<Screenshot 2025-05-20 214334.png>)
+![alt text](<Screenshot 2025-05-20 214555-1.png>)
+![alt text](<Screenshot 2025-05-20 214711.png>)
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
